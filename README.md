@@ -27,6 +27,5 @@ I am proficient with **JIRA, Power BI, SQL, and Python** for precise project tra
 
 ### 📫 Connect with Me
 - **Email:** [divyasrimathukumilli27@gmail.com](mailto:divyasrimathukumilli27@gmail.com)
-- **LinkedIn:** [Divya Mathukumilli](your-linkedin-profile)
 
 Let's collaborate and build something impactful! ✨
